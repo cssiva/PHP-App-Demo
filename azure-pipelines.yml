@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: DESKTOP-846AKH4
+  vmImage: default
 
 variables:
   phpVersion: 7.2
