@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: DESKTOP-846AKH4
 
 variables:
   phpVersion: 7.2
