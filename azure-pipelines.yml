@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  Default : DESKTOP-846AKH4
+  Default : siva
 
 variables:
   phpVersion: 7.2
